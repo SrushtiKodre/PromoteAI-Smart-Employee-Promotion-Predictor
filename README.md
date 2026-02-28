@@ -114,8 +114,29 @@ train.csv and test.csv
 
 app.ipynb
 
+
 # Configure ngrok Authentication
 
 Create an account at
 ngrok
 and copy your Auth Token.
+
+# Launch Streamlit App run all cells of Google colab
+
+# Generate Public URL
+
+# Click the generated link to access the web application.
+
+# Important Notes : 
+
+Every time the runtime resets, you must:
+
+Re-upload files
+
+Re-install libraries
+
+Re-set ngrok auth token
+
+The ngrok URL is temporary.
+
+For permanent deployment, use Streamlit Cloud.
